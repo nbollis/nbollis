@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![nbollis's GitHub stats](https://github-readme-stats.vercel.app/api?username=nbollis&show_icons=true&theme=tokyonight)
 
-Check out my [Google Scholar]([https://scholar.google.com.tw/citations?user=o71lJnkAAAAJ&hl=zh-TW](https://scholar.google.com/citations?view_op=list_works&hl=en&user=-LYof70AAAAJ)) for recent publications.
+Check out my [Google Scholar]([https://scholar.google.com.tw/citations?user=o71lJnkAAAAJ&hl=zh-TW](https://scholar.google.com/citations?view_op=list_works&hl=en&user=-LYof70AAAAJ) for recent publications.
