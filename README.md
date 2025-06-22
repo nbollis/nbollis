@@ -14,11 +14,12 @@ Check out my [Google Scholar](https://scholar.google.com/citations?view_op=list_
 
 - **[MetaMorpheus](https://github.com/smith-chem-wisc/MetaMorpheus)**: Core developer of this open-source search engine for proteomics and RNA modification analysis. I contribute to backend algorithms and WPF GUI features.
 - **[MzLib](https://github.com/smith-chem-wisc/mzLib) & [Related Libraries](https://github.com/nbollis/MetaAnalyzer)**: Developer and maintainer of modular .NET libraries supporting mass spectrometry workflows, with emphasis on testability and reusability.
+- **[ProteoformExplorer](https://github.com/smith-chem-wisc/ProteoformExplorer)**: Developer and maintainer of a visualization software for LC-MS/MS analysis of proteomics and transcriptomics data. 
 - **Transcriptomics Extensions**: Developer of workflows for modified RNA oligonucleotide analysis alongside standard peptide searches.
 
 ### 🛠️ Personal Projects
 
-Beyond my research and scientific tools, I enjoy building practical and fun software projects to learn new skills, including:
+Beyond my research and scientific tools, I enjoy building practical and fun software projects to learn new skills. These tools are all a work in progress and include:
 
 - 🃏 **[Solitaire Solver with Genetic Algorithms](https://github.com/nbollis/Solivtare)**  
   A simulation environment for evolving and testing solitaire strategies using genetic algorithms and automated game state evaluation.
